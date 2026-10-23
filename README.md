@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/0xfnzero/ai-switch/actions/workflows/ci.yml"><img src="https://github.com/0xfnzero/ai-switch/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
     <a href="https://github.com/0xfnzero/ai-switch/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
     <a href="https://github.com/0xfnzero/ai-switch"><img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?logo=node.js&logoColor=white" alt="Node.js 20+"></a>
     <a href="https://github.com/0xfnzero/ai-switch"><img src="https://img.shields.io/github/stars/0xfnzero/ai-switch?style=social" alt="GitHub stars"></a>
