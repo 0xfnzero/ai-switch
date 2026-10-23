@@ -22,7 +22,10 @@
 
 <p align="center">
     <a href="https://github.com/0xfnzero/ai-switch/blob/main/README_CN.md">中文</a> |
-    <a href="https://github.com/0xfnzero/ai-switch/blob/main/README.md">English</a>
+    <a href="https://github.com/0xfnzero/ai-switch/blob/main/README.md">English</a> |
+    <a href="https://fnzero.dev/">社区官网</a> |
+    <a href="https://t.me/fnzero_group">Telegram</a> |
+    <a href="https://discord.gg/vuazbGkqQE">Discord</a>
 </p>
 
 当前版本：**0.2.0**
@@ -42,6 +45,7 @@
 - [故障排查](#故障排查)
 - [开发](#开发)
 - [许可证](#许可证)
+- [联系方式](#联系方式)
 
 ## 为什么需要 AI Switch
 
@@ -360,3 +364,10 @@ npm pack --dry-run
 ## 许可证
 
 本项目使用 [MIT License](LICENSE)。
+
+## 联系方式
+
+- 社区官网：https://fnzero.dev/
+- 项目仓库：https://github.com/0xfnzero/ai-switch
+- Telegram 群组：https://t.me/fnzero_group
+- Discord：https://discord.gg/vuazbGkqQE

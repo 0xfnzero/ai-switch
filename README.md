@@ -22,7 +22,10 @@
 
 <p align="center">
     <a href="https://github.com/0xfnzero/ai-switch/blob/main/README_CN.md">中文</a> |
-    <a href="https://github.com/0xfnzero/ai-switch/blob/main/README.md">English</a>
+    <a href="https://github.com/0xfnzero/ai-switch/blob/main/README.md">English</a> |
+    <a href="https://fnzero.dev/">Community Website</a> |
+    <a href="https://t.me/fnzero_group">Telegram</a> |
+    <a href="https://discord.gg/vuazbGkqQE">Discord</a>
 </p>
 
 Current version: **0.2.0**
@@ -42,6 +45,7 @@ Current version: **0.2.0**
 - [Troubleshooting](#troubleshooting)
 - [Development](#development)
 - [License](#license)
+- [Contact](#contact)
 
 ## Why AI Switch
 
@@ -360,3 +364,10 @@ The test suite uses temporary home directories and local HTTP servers. It never 
 ## License
 
 Licensed under the [MIT License](LICENSE).
+
+## Contact
+
+- Community Website: https://fnzero.dev/
+- Project Repository: https://github.com/0xfnzero/ai-switch
+- Telegram Group: https://t.me/fnzero_group
+- Discord: https://discord.gg/vuazbGkqQE
