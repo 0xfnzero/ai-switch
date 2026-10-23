@@ -1,0 +1,43 @@
+{
+  "name": "ai-switch-cli",
+  "version": "0.2.0",
+  "description": "Safely switch API providers and relay endpoints for Codex and Claude Code.",
+  "author": "0xfnzero",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xfnzero/ai-switch.git"
+  },
+  "homepage": "https://github.com/0xfnzero/ai-switch#readme",
+  "bugs": {
+    "url": "https://github.com/0xfnzero/ai-switch/issues"
+  },
+  "type": "module",
+  "bin": {
+    "ai-switch": "./bin/ai-switch.js",
+    "ais": "./bin/ai-switch.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check bin/ai-switch.js && node --check src/cli.js && node --check src/config.js && node --check src/probe.js && node --check src/prompt.js && node --check src/store.js && node --check src/token.js",
+    "prepack": "npm test && npm run check"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "README_CN.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "codex",
+    "claude-code",
+    "api-key",
+    "proxy",
+    "relay",
+    "cli"
+  ],
+  "license": "MIT"
+}
